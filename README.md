@@ -6,7 +6,7 @@
 ## The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to [EdX](https://www.edx.org/) in order to access the course material. 
 
 ## PH525.1
-* **Week 1** 
+**Week 1** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -21,7 +21,7 @@
 
 
 
-* **Week 2** 
+**Week 2** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -39,7 +39,7 @@
 
 
 
-* **Week 3** 
+**Week 3** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -54,7 +54,7 @@
 
 
 
-* **Week 4** 
+**Week 4** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -72,7 +72,7 @@
 
 
 ## PH525.2
-* **Week 1** 
+**Week 1** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -83,7 +83,7 @@
 ##
 
 
-* **Week 2** 
+**Week 2** 
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -96,7 +96,7 @@
 
 
 
-* **Week 3**
+**Week 3**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -111,7 +111,7 @@
 
 
 
-* **Week 4**
+**Week 4**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -126,7 +126,7 @@
 
 
 ## PH525.3
-* **Week 1**
+**Week 1**
 
 
 | N  | Lecture Title |  Video | Book | Course | 
@@ -137,7 +137,7 @@
 ##
 
 
-* **Week 2**
+**Week 2**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -149,7 +149,7 @@
 ##
 
 
-* **Week 3**
+**Week 3**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -161,7 +161,7 @@
 
 
 
-* **Week 4**
+**Week 4**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -173,7 +173,7 @@
 
 
 ## PH525.4
-* **Week 1**
+**Week 1**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -186,7 +186,7 @@
 
 
  
-* **Week 2**
+**Week 2**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -200,7 +200,7 @@
 
 
 
-* **Week 3**
+**Week 3**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
@@ -222,7 +222,7 @@
 
 
 
-* **Week 4**
+**Week 4**
 
 | N  | Lecture Title |  Video | Book | Course | 
 |---|---|---|---|---|
