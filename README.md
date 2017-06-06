@@ -1,4 +1,4 @@
-# PH525 -- Statistics and R
+# PH525 -- Statistics and R who who who
 ## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
 ## Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
 ## Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
@@ -16,8 +16,6 @@
 | 4 | Using the Textbook | 00:00 | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | 5 | Rstudio for Organization | 00:00 | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | 6 | Introduction to dplyr | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-
-
 
 
 
