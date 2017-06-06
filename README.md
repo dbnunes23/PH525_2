@@ -8,8 +8,8 @@ The following page includes links to the material presented in the first four co
 ## PH525.1x
 **_Week 1_** 
 
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|-------------------------|---|---|---|---|
+| N  |        Lecture Title        | Time | Video | Material | Course | 
+|---|---|---|---|---|---|
 | 1 | Getting Started with R | 00:00 | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | 2 | GitHub | 00:00 | [Youtube](https://www.youtube.com/watch?v=HSXwLm6txoo) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 | 3 | RStudio | 00:00 | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
@@ -20,8 +20,8 @@ The following page includes links to the material presented in the first four co
 
 **_Week 2_** 
 
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|-------------------------|---|---|---|---|
+| N  |      Lecture Title      | Time | Video | Material | Course | 
+|---|---|---|---|---|---|
 | 1 | Motivation | 00:00 | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
 | 2 | Introduction to Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=AxJf1nXrW8U) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
 | 3 | Introduction to Null Distributions | 00:00 | [Youtube](https://www.youtube.com/watch?v=G5ZjYy1vS8k) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
