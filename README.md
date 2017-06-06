@@ -1,8 +1,8 @@
 # PH525 -- Statistics and R
 ## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
-## Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
-## Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
-## The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to [EdX](https://www.edx.org/) in order to access the course material. 
+### Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
+### Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
+#### The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to [EdX](https://www.edx.org/) in order to access the course material. 
 
 ## PH525.1
 **_Week 1_** 
@@ -76,7 +76,7 @@
 |---|---|---|---|---|---|
 | 1 | Examples | 00:00 | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
 | 2 | Matrix Algebra in Practice I | 00:00 | [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
-| 3 | Matrix Algebra in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| 3 | Matrix Algebra in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |  
 | 4 | Standard Errors | 00:00 | [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/) |
 
 
@@ -200,5 +200,6 @@
 | 5 | ComBat | 00:00 | [Youtube](https://www.youtube.com/watch?v=YqoG1wt5ZdU) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | 6 | Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | 7 | Motivating Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
-| 8 | Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
-#
+| 8 | Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |  
+
+
