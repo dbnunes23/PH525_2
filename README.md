@@ -5,7 +5,7 @@
 ### Course Material
 The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to [EdX](https://www.edx.org/) in order to access the course material. Course materials can also be located here: [Course Material](http://genomicsclass.github.io/book/)
 
-## PH525.1X
+## PH525.1x
 **_Week 1_** 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
@@ -60,7 +60,7 @@ The following page includes links to the material presented in the first four co
 | 9 | Mann-Whitney-Wilcoxon Test | 00:00 | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/a5053412c3024ff18bc4e33332042b85/) |
 
 
-## PH525.2X
+## PH525.2x
 **_Week 1_** 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
@@ -106,7 +106,7 @@ The following page includes links to the material presented in the first four co
 | 7 | QR Factorization | 00:00 | [Youtube](https://www.youtube.com/watch?v=yL3lrirzNnQ) | [Chapter5](http://genomicsclass.github.io/book/pages/qr_and_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
 
 
-## PH525.3X
+## PH525.3x
 **_Week 1_**
 
 
@@ -148,7 +148,7 @@ The following page includes links to the material presented in the first four co
 | 4 | Plots: Volcano plots and p-value histograms, boxplots, and MAplots | 00:00 | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/87ca7437577a49d28cb69c7463ae8a87/) |
 
 
-## PH525.4X
+## PH525.4x
 **_Week 1_**
 
 | N  | Lecture Title | Time | Video | Material | Course | 
