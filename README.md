@@ -1,5 +1,5 @@
 ***
-# PH525 -- Statistics and R
+# PH525 -- Statistics and R - check check 1 2
 ## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
 #### Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
 #### Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
