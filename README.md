@@ -6,6 +6,12 @@
 ### Course Material
 The following page includes links to the material presented in the first four courses of the PH525 Data Analysis series. The links are to the video lectures, the book, and the course itself. Note that you must be logged in to [EdX](https://www.edx.org/) in order to access the course material. Course materials can also be located here: [Course Material](http://genomicsclass.github.io/book/)
 
+Other sources of help
+
+- [RStudio](https://www.rstudio.com/), [R project](http://www.r-project.org/), and [Bioconductor](http://bioconductor.org/)
+- [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
+- [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
+
 
 ## PH525.1x
 **_Week 1_** 
