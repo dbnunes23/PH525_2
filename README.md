@@ -13,7 +13,7 @@ Other sources of help
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
 
 
-## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson](/P525_2x.md)>
+## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson](/P525_2_2x.md)>
 **_Week 1_** 
 
 N   | Lecture Title | Time  | Video | Material | Course
