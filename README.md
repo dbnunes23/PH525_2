@@ -14,7 +14,7 @@ Other sources of help
 
 
 ## PH525.1x: Statistics and R for the Life Sciences   
-Next Lesson<[PH252.2x: Introduction to Linear Models and Matrix Algebra](/PH525_2_2x.md)>  
+<Next Lesson:[PH252.2x: Introduction to Linear Models and Matrix Algebra](/PH525_2_2x.md)>  
 
 **_Week 1_** 
 
