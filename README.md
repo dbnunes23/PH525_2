@@ -73,5 +73,6 @@ N   | Lecture Title | Time  | Video | Material | Course
 #### Next Lesson: [PH252.2x: Introduction to Linear Models and Matrix Algebra](/PH525_2_2x.md) >  
 
 
+--------------------------------
   
 
