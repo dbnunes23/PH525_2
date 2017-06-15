@@ -13,7 +13,7 @@ Other sources of help
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
 
 
-## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson (PH525.2x)](/PH525_2_2x.md)>
+## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson](/PH525_2_2x.md)> (PH252.2x: Introduction to Linear Models and Matrix Algebra)
 **_Week 1_** 
 
 N   | Lecture Title | Time  | Video | Material | Course
@@ -67,6 +67,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 8 | Median, Mad, and Spearman Correlation | 00:00 | [Youtube](https://www.youtube.com/watch?v=vLDxz51pLZQ) | [Chapter 3](http://genomicsclass.github.io/book/pages/robust_summaries.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/a5053412c3024ff18bc4e33332042b85/) |
 | 9 | Mann-Whitney-Wilcoxon Test | 00:00 | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/a5053412c3024ff18bc4e33332042b85/) |
 
+<[Next Lesson](/PH525_2_2x.md)> (PH252.2x: Introduction to Linear Models and Matrix Algebra)
 
 ## PH525.2x: Introduction to Linear Models and Matrix Algebra
 **_Week 1_** 
