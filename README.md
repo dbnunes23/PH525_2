@@ -1,5 +1,5 @@
 ***
-# PH525 -- Statistics and R 
+# PH525 -- Biomedical Data Science
 ## An introduction to basic statistical concepts and R programming skills necessary for analyzing data in the life sciences.
 #### Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
 #### Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
@@ -13,7 +13,7 @@ Other sources of help
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
 
 
-## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson](/PH525_2_2x.md)>
+## PH525.1x: Statistics and R for the Life Sciences <[Next Lesson (PH525.2x)](/PH525_2_2x.md)>
 **_Week 1_** 
 
 N   | Lecture Title | Time  | Video | Material | Course
