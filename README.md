@@ -1,5 +1,5 @@
 ***
-# PH525 -- Biomedical Data Science
+# Series 1: PH525 -- Biomedical Data Science
 #### Instructor: Professor [Rafael Irizarry](https://twitter.com/rafalab)
 #### Teaching Staff: Dr. Heather Sternshein and Dr. Idan Ginsburg
 ### Course Material
