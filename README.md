@@ -13,7 +13,6 @@ Other sources of help
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)  
 
 
-###Contents
 Module | Week 
 |---|---|
 | PH525.1X | <a href="#Module_1_Week_1">Week 1</a> | 
