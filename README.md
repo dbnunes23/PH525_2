@@ -12,7 +12,7 @@ Other sources of help
 - [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)  
 
-###Contents  
+### Contents  
 
 | Module | Week | 
 |--------|------| 
