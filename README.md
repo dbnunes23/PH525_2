@@ -12,11 +12,13 @@ Other sources of help
 - [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)  
 
+###Contents  
 
 | Module | Week | 
 |--------|------| 
 | PH525.1x: Statistics and R for the Life Sciences | <a href="#Module_1_Week_1">Week 1</a> | 
 |                                                  | <a href="#Module_1_Week_2">Week 2</a> | 
+|                                                  | <a href="#Module_1_Week_3">Week 3</a> |  
 
 
 
@@ -50,7 +52,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 10 | t-tests in Practice (part II) | 00:00 | [Youtube](https://www.youtube.com/watch?v=IzFDBnbhDbA) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 
 
-**_Week 3_** 
+<a id="Module_1_Week_3">**_Week 3_**</a> 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
