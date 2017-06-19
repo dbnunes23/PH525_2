@@ -11,27 +11,34 @@ Other sources of help
 - [RStudio](https://www.rstudio.com/), [R project](http://www.r-project.org/), and [Bioconductor](http://bioconductor.org/)
 - [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
 - [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)  
-
+  
+  
 ### Contents  
 
-| Module | Week | 
-|--------|------| 
-| PH525.1x: Statistics and R for the Life Sciences | <a href="#Module_1_Week_1">Week 1</a> | 
-|                                                  | <a href="#Module_1_Week_2">Week 2</a> | 
-|                                                  | <a href="#Module_1_Week_3">Week 3</a> |
-|                                                  | <a href="#Module_1_Week_4">Week 4</a> |
-| PH525.2x: Introduction to Linear Models and Matrix Algebra | <a href="#Module_2_Week_1">Week 1</a> | 
-|                                                            | <a href="#Module_2_Week_2">Week 2</a> | 
-|                                                            | <a href="#Module_2_Week_3">Week 3</a> | 
-|                                                            | <a href="#Module_2_Week_4">Week 4</a> | 
-| PH525.3x: Statistical Interference and Modeling for High-throughput Experiments | <a href="#Module_3_Week_1">Week 1</a> |
-|                                                                                 | <a href="#Module_3_Week_2">Week 2</a> | 
-|                                                                                 | <a href="#Module_3_Week_3">Week 3</a> | 
-|                                                                                 | <a href="#Module_3_Week_4">Week 4</a> |
-| PH525.4x: High-Dimensional Data Analysis| <a href="#Module_4_Week_1">Week 1</a> |
-|                                         | <a href="#Module_4_Week_2">Week 2</a> |
-|                                         | <a href="#Module_4_Week_3">Week 3</a> |
-|                                         | <a href="#Module_4_Week_4">Week 4</a> |
+
+PH525.1x: Statistics and R for the Life Sciences 
+ * <a href="#Module_1_Week_1">Week 1</a>
+ * <a href="#Module_1_Week_2">Week 2</a>
+ * <a href="#Module_1_Week_3">Week 3</a>
+ * <a href="#Module_1_Week_4">Week 4</a>  
+ 
+PH525.2x: Introduction to Linear Models and Matrix Algebra
+ * <a href="#Module_2_Week_1">Week 1</a>
+ * <a href="#Module_2_Week_2">Week 2</a>
+ * <a href="#Module_2_Week_3">Week 3</a>
+ * <a href="#Module_2_Week_4">Week 4</a>  
+ 
+PH525.3x: Statistical Interference and Modeling for High-throughput Experiments 
+ * <a href="#Module_3_Week_1">Week 1</a> 
+ * <a href="#Module_3_Week_2">Week 2</a>  
+ * <a href="#Module_3_Week_3">Week 3</a> 
+ * <a href="#Module_3_Week_4">Week 4</a>  
+ 
+PH525.4x: High-Dimensional Data Analysis 
+ * <a href="#Module_4_Week_1">Week 1</a> 
+ * <a href="#Module_4_Week_2">Week 2</a>
+ * <a href="#Module_4_Week_3">Week 3</a> 
+ * <a href="#Module_4_Week_4">Week 4</a>
 
 ## PH525.1x: Statistics and R for the Life Sciences
 
