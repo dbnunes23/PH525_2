@@ -18,9 +18,20 @@ Other sources of help
 |--------|------| 
 | PH525.1x: Statistics and R for the Life Sciences | <a href="#Module_1_Week_1">Week 1</a> | 
 |                                                  | <a href="#Module_1_Week_2">Week 2</a> | 
-|                                                  | <a href="#Module_1_Week_3">Week 3</a> |  
-
-
+|                                                  | <a href="#Module_1_Week_3">Week 3</a> |
+|                                                  | <a href="#Module_1_Week_4">Week 4</a> |
+| PH525.2x: Introduction to Linear Models and Matrix Algebra | <a href="#Module_2_Week_1">Week 1</a> | 
+|                                                            | <a href="#Module_2_Week_2">Week 2</a> | 
+|                                                            | <a href="#Module_2_Week_3">Week 3</a> | 
+|                                                            | <a href="#Module_2_Week_4">Week 4</a> | 
+| PH525.3x: Statistical Interference and Modeling for High-throughput Experiments | <a href="#Module_3_Week_1">Week 1</a> |
+|                                                                                 | <a href="#Module_3_Week_2">Week 2</a> | 
+|                                                                                 | <a href="#Module_3_Week_3">Week 3</a> | 
+|                                                                                 | <a href="#Module_3_Week_4">Week 4</a> |
+| PH525.4x: High-Dimensional Data Analysis| <a href="#Module_4_Week_1">Week 1</a> |
+|                                         | <a href="#Module_4_Week_2">Week 2</a> |
+|                                         | <a href="#Module_4_Week_3">Week 3</a> |
+|                                         | <a href="#Module_4_Week_4">Week 4</a> |
 
 ## PH525.1x: Statistics and R for the Life Sciences
 
@@ -63,7 +74,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 5 | Association Tests | 00:00 | [Youtube](https://www.youtube.com/watch?v=h8Rn7rr9M34) | [Chapter 1](http://genomicsclass.github.io/book/pages/association_tests.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/2f5e61303d564f2597fb2afbbdaaa60d/) |
 
 
-**_Week 4_** 
+<a id="Module_1_Week_4">**_Week 4_**</a> 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -79,7 +90,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
 
 ## PH525.2x: Introduction to Linear Models and Matrix Algebra
-**_Week 1_** 
+<a id="Module_2_Week_1">**_Week 1_**</a> 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -89,7 +100,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 4 | Matrix Operations | 00:00 | [Youtube](https://www.youtube.com/watch?v=-5uvdduYNJM) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_operations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
 
 
-**_Week 2_** 
+<a id="Module_2_Week_2">**_Week 2_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -99,7 +110,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 4 | Standard Errors | 00:00 | [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/) |
 
 
-**_Week 3_**
+<a id="Module_2_Week_3">**_Week 3_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -111,7 +122,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 5 | Fitting Linear Models and Testing | 00:00 | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
 
 
-**_Week 4_**
+<a id="Module_2_Week_4">**_Week 4_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -125,7 +136,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
 
 ## PH525.3x: Statistical Interference and Modeling for High-throughput Experiments
-**_Week 1_**
+<a id="Module_3_Week_1">**_Week 1_**</a>
 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
@@ -135,7 +146,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 3 | p-values Are Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/) |
 
 
-**_Week 2_**
+<a id="Module_3_Week_2">**_Week 2_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -146,7 +157,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 5 | q-values | 00:00 | [Youtube](https://www.youtube.com/watch?v=tomS-c321rI) | [Chapter6](http://genomicsclass.github.io/book/pages/multiple_testing.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/86eb94e33a704cecbccfcfad3830258c/d3b2bf581b4d479c922cdd6897acee6a/) |
 
 
-**_Week 3_**
+<a id="Module_3_Week_3">**_Week 3_**</a>
 
 | N  | Lecture Title | Time |  Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -156,7 +167,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 4 | Models for Variance | 00:00 | [Youtube](https://www.youtube.com/watch?v=GCxezZ6iI6I) | [Chapter7](http://genomicsclass.github.io/book/pages/modeling.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/49490541db654710a492ce1c63213df3/) |
 
 
-**_Week 4_**
+<a id="Module_3_Week_4">**_Week 4_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -167,7 +178,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
 
 ## PH525.4x: High-Dimensional Data Analysis
-**_Week 1_**
+<a id="Module_4_Week_1">**_Week 1_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -178,7 +189,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
 
  
-**_Week 2_**
+<a id="Module_4_Week_2">**_Week 2_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -190,7 +201,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
 
 
-**_Week 3_**
+<a id="Module_4_Week_3">**_Week 3_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -208,7 +219,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 12 | Cross Validation | 00:00 | [Youtube](https://www.youtube.com/watch?v=5Oxd690dd_0) | [Chapter9](http://genomicsclass.github.io/book/pages/crossvalidation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/b634ab308e304cf3ad83f1e964465517/20be257ec0c341309492de6a7f2e695a/) |
 
 
-**_Week 4_**
+<a id="Module_4_Week_4">**_Week 4_**</a>
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
@@ -220,6 +231,10 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 6 | Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | 7 | Motivating Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | 8 | Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |  
+
+------------------
+
+
   
   
 
