@@ -16,7 +16,7 @@ Other sources of help
 Module | Week 
 |---|---|
 | PH525.1X | <a href="#Module_1_Week_1">Week 1</a> | 
-    |  | <a href="#Module_1_Week_2">Week 2</a> | 
+|          | <a href="#Module_1_Week_2">Week 2</a> | 
 
 
 
