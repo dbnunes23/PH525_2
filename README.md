@@ -10,19 +10,20 @@ Other sources of help
 
 - [RStudio](https://www.rstudio.com/), [R project](http://www.r-project.org/), and [Bioconductor](http://bioconductor.org/)
 - [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/) 
-- [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)
-
-<a id="Lesson 1">
-
-Lesson | Week |Link
----|---|---|
-1 | 1 | <a href="#Lesson 1">Click</a>
+- [PH525x Statistics for Genomics Book](http://genomicsclass.github.io/book/)  
 
 
+###Contents
+Module | Week 
+|---|---|
+| PH525.1X | <a href="#Module_1_Week_1">Week 1</a> | 
+    |  | <a href="#Module_1_Week_2">Week 2</a> | 
 
-## <a id="Lesson 1">PH525.1x: Statistics and R for the Life Sciences  
 
-**_Week 1_** 
+
+## PH525.1x: Statistics and R for the Life Sciences
+
+<a id="Module_1_Week_1">**_Week 1_**</a>   
 
 N   | Lecture Title | Time  | Video | Material | Course
 |----|---|-------|-------|----------|--------|
@@ -34,7 +35,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 6   | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 
 
-**_Week 2_** 
+<a id="Module_1_Week_2">**_Week 2_**</a> 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
