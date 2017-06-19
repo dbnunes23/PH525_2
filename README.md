@@ -15,7 +15,7 @@ Other sources of help
   
 ### Contents  
 
-
+#### Series 1:  
 PH525.1x: Statistics and R for the Life Sciences   
   <a href="#Module_1_Week_1">  | Week 1 |  </a> <a href="#Module_1_Week_2">  | Week 2 |  </a> <a href="#Module_1_Week_3">  | Week 3 |  </a> <a href="#Module_1_Week_4"> |  Week 4  | </a> 
  
