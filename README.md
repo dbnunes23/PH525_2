@@ -29,6 +29,7 @@ PH525.4x: High-Dimensional Data Analysis
 <a href="#Module_4_Week_1">| Week 1 | </a> <a href="#Module_4_Week_2">| Week 2 |</a> <a href="#Module_4_Week_3">| Week 3 |</a> 
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
+<div id="course-materials" class="section level3">
 <table style="width:40%;">
 <colgroup>
 <col width="5%"></col>
@@ -103,6 +104,7 @@ PH525.4x: High-Dimensional Data Analysis
 <td><a href="R/R_Base_Types.R">R code</a></td>
 <td><a href="Rmd/R_Base_Types.Rmd">R markdown</a> (<a href="https://github.com/kasperdanielhansen/genbioconductor/blob/master/Rmd/R_Base_Types.Rmd">On GitHub</a>)</td>
 </tr>
+</div>
 
 ## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>
 
