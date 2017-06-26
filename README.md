@@ -241,7 +241,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 
  <table style="width:150%">
   <tr>
-    <th>Firstname</th>
+    <th>Firstname&nbsp;&nbsp</th>
     <th>Lastname</th>
     <th>Age</th>
   </tr>
