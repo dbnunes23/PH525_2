@@ -29,30 +29,6 @@ PH525.4x: High-Dimensional Data Analysis
 <a href="#Module_4_Week_1">| Week 1 | </a> <a href="#Module_4_Week_2">| Week 2 |</a> <a href="#Module_4_Week_3">| Week 3 |</a> 
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
-<thead>
-<tr class="header">
-<th>N</th>
-<th>Lecture</th>
-<th>Time</th>
-<th>Coursera</th>
-<th>Youtube</th>
-<th>Material</th>
-<th>Code</th>
-<th>Source</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>What is Bioconductor</td>
-<td>(7:18)</td>
-<td><a href="https://class.coursera.org/genbioconductor-004/lecture/5">Video</a></td>
-<td><a href="https://youtu.be/ScOQ9XHHAH0">Youtube</a></td>
-<td><a href="pdf/BiocIntro_What_is_Bioconductor.pdf">PDF</a></td>
-<td>NA</td>
-<td><a href="https://docs.google.com/presentation/d/1rPKLk9tTfoLkRl-PyaboJ4wHTsLhmm2ukBRxOmJg4Kk/edit?usp=sharing">Google Slides</a></td>
-</tr>
-
 
 ## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>
 
