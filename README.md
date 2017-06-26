@@ -29,6 +29,81 @@ PH525.4x: High-Dimensional Data Analysis
 <a href="#Module_4_Week_1">| Week 1 | </a> <a href="#Module_4_Week_2">| Week 2 |</a> <a href="#Module_4_Week_3">| Week 3 |</a> 
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
+<table style="width:40%;">
+<colgroup>
+<col width="5%"></col>
+<col width="5%"></col>
+<col width="5%"></col>
+<col width="5%"></col>
+<col width="5%"></col>
+<col width="4%"></col>
+<col width="4%"></col>
+<col width="4%"></col>
+</colgroup>
+<thead>
+<tr class="header">
+<th>N</th>
+<th>Lecture</th>
+<th>Time</th>
+<th>Coursera</th>
+<th>Youtube</th>
+<th>Material</th>
+<th>Code</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>What is Bioconductor</td>
+<td>(7:18)</td>
+<td><a href="https://class.coursera.org/genbioconductor-004/lecture/5">Video</a></td>
+<td><a href="https://youtu.be/ScOQ9XHHAH0">Youtube</a></td>
+<td><a href="pdf/BiocIntro_What_is_Bioconductor.pdf">PDF</a></td>
+<td>NA</td>
+<td><a href="https://docs.google.com/presentation/d/1rPKLk9tTfoLkRl-PyaboJ4wHTsLhmm2ukBRxOmJg4Kk/edit?usp=sharing">Google Slides</a></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Installing Bioconductor</td>
+<td>(3:39)</td>
+<td><a href="https://class.coursera.org/genbioconductor-004/lecture/7">Video</a></td>
+<td><a href="https://youtu.be/dyPbaLpevGw">Youtube</a></td>
+<td><a href="html/Install_Bioconductor.html">HTML</a></td>
+<td>NA</td>
+<td><a href="Rmd/Install_Bioconductor.Rmd">R markdown</a> (<a href="https://github.com/kasperdanielhansen/genbioconductor/blob/master/Rmd/Install_Bioconductor.Rmd">On GitHub</a>)</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>The Bioconductor Website</td>
+<td>(9:56)</td>
+<td><a href="https://class.coursera.org/genbioconductor-004/lecture/9">Video</a></td>
+<td><a href="https://youtu.be/TIj2ckwJmqM">Youtube</a></td>
+<td><a href="html/Online_Resources.html">HTML</a></td>
+<td>NA</td>
+<td><a href="Rmd/Online_Resources.Rmd">R markdown</a> (<a href="https://github.com/kasperdanielhansen/genbioconductor/blob/master/Rmd/Online_Resources.Rmd">On GitHub</a>)</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Useful Online Resources</td>
+<td>(5:08)</td>
+<td><a href="https://class.coursera.org/genbioconductor-004/lecture/11">Video</a></td>
+<td><a href="https://youtu.be/290_-Ca5iAk">Youtube</a></td>
+<td><a href="html/Online_Resources.html">HTML</a></td>
+<td>NA</td>
+<td><a href="Rmd/Online_Resources.Rmd">R markdown</a> (<a href="https://github.com/kasperdanielhansen/genbioconductor/blob/master/Rmd/Online_Resources.Rmd">On GitHub</a>)</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>R Base Types</td>
+<td>(18:11)</td>
+<td><a href="https://class.coursera.org/genbioconductor-004/lecture/13">Video</a></td>
+<td><a href="https://youtu.be/x75azcLzQzs">Youtube</a></td>
+<td><a href="html/R_Base_Types.html">HTML</a></td>
+<td><a href="R/R_Base_Types.R">R code</a></td>
+<td><a href="Rmd/R_Base_Types.Rmd">R markdown</a> (<a href="https://github.com/kasperdanielhansen/genbioconductor/blob/master/Rmd/R_Base_Types.Rmd">On GitHub</a>)</td>
+</tr>
+
 ## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>
 
 **_Week 1_**   
