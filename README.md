@@ -239,6 +239,23 @@ N   | Lecture Title | Time  | Video | Material | Course
 | 2 | Greeting to 5x/three examples of genomic computation | 06:49 | [Youtube](https://www.youtube.com/watch?v=yobqXdAts14) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.5x+2T2017/courseware/2273065cc0f649b69c1240a58f7ab080/4f4ee3876f2f45c184fab2a95b2a51b8/?child=last) |
 | 3 | p-values Are Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/) |
 
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table> 
 ------------------
 
 
