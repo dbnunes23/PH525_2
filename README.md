@@ -31,7 +31,7 @@ PH525.4x: High-Dimensional Data Analysis
 
 ## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>  
 
-Something in between  
+ 
 
 | Lecture Title | Time  | Video | Material | Course| 
 |---|-------|-------|----------|--------|
