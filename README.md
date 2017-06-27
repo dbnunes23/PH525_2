@@ -30,9 +30,8 @@ PH525.4x: High-Dimensional Data Analysis
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
 
-|## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>|
-|**_Week 1_**|   
-|     |
+|## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>||||||
+|**_Week 1_**||||||   
 N   | Lecture Title | Time  | Video | Material | Course
 |----|---|-------|-------|----------|--------|
 1   | Getting Started with  R   | 00:00 | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
@@ -40,7 +39,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 3   | RStudio                   | 00:00 | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 4   | Using the Textbook        | 00:00 | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 5   | Rstudio for Organization  | 00:00 | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
-6   | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
+6   | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 
 
 <a id="Module_1_Week_2">**_Week 2_**</a> 
