@@ -35,7 +35,7 @@ PH525.4x: High-Dimensional Data Analysis
 
 | Lecture Title | Time  | Video | Material | Course| 
 |---|-------|-------|----------|--------|
-|**_Week 1_**| | | | |  
+|**_Week 1_**|  
 | Getting Started with  R   | 00:00 | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | GitHub                    | 00:00 | [Youtube](https://www.youtube.com/watch?v=HSXwLm6txoo) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | RStudio                   | 00:00 | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
