@@ -39,12 +39,8 @@ N   | Lecture Title | Time  | Video | Material | Course
 4   | Using the Textbook        | 00:00 | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 5   | Rstudio for Organization  | 00:00 | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) 
 6   | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-
-
 | <a id="Module_1_Week_2">**_Week 2_**</a> | | | | | | 
-
 | N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
 | 1 | Motivation | 00:00 | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
 | 2 | Introduction to Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=AxJf1nXrW8U) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
 | 3 | Introduction to Null Distributions | 00:00 | [Youtube](https://www.youtube.com/watch?v=G5ZjYy1vS8k) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
