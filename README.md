@@ -71,50 +71,36 @@ PH525.4x: High-Dimensional Data Analysis
 | Mann-Whitney-Wilcoxon Test | 00:00 | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/a5053412c3024ff18bc4e33332042b85/) |
 
 
-## <a id="Module_2_Week_1">PH525.2x: Introduction to Linear Models and Matrix Algebra</a> 
-**_Week 1_**
-
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
-| 1 | Course Introduction | 00:00 | [Youtube](https://www.youtube.com/watch?v=aP61q-LoerI) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/) |
-| 2 | Introduction | 00:00 | [Youtube](https://www.youtube.com/watch?v=tPlHbAHVqFQ) | [Chapter 4](http://genomicsclass.github.io/book/pages/intro_using_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/) |
-| 3 | Matrix Notations | 00:00 | [Youtube](https://www.youtube.com/watch?v=EaYkxUwEB-Q) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_notation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
-| 4 | Matrix Operations | 00:00 | [Youtube](https://www.youtube.com/watch?v=-5uvdduYNJM) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_operations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
+## <a id="Module_2_Week_1">PH525.2x: Introduction to Linear Models and Matrix Algebra</a>   
 
 
-<a id="Module_2_Week_2">**_Week 2_**</a>
-
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
-| 1 | Examples | 00:00 | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
-| 2 | Matrix Algebra in Practice I | 00:00 | [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
-| 3 | Matrix Algebra in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |  
-| 4 | Standard Errors | 00:00 | [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/) |
-
-
-<a id="Module_2_Week_3">**_Week 3_**</a>
-
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
-| 1 | Linear Models as Matrix Multiplication I | 00:00 | [Youtube](https://www.youtube.com/watch?v=gP7mgpli5t4) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-| 2 | Linear Models as Matrix Multiplication II | 00:00 | [Youtube](https://www.youtube.com/watch?v=pw7I70rlkdM) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-| 3 | Expressing Experimental Designs | 00:00 | [Youtube](https://www.youtube.com/watch?v=KpSS2e4Y24w) | [Chapter5](http://genomicsclass.github.io/book/pages/expressing_design_formula.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-| 4 | Linear Models in Practice I | 00:00 | [Youtube](https://www.youtube.com/watch?v=xCdSyc3K3Ew) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-| 5 | Linear Models in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=Opa8i0QxKCo) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-| 5 | Fitting Linear Models and Testing | 00:00 | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
-
-
-<a id="Module_2_Week_4">**_Week 4_**</a>
-
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
-| 1 | Interactions and Contrasts I | 00:00 | [Youtube](https://www.youtube.com/watch?v=Wa1QkyF4peU) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
-| 2 | Interactions and Contrasts II | 00:00 | [Youtube](https://www.youtube.com/watch?v=ZU5jb86vXag) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
-| 3 | Interactions and Contrasts III | 00:00 | [Youtube](https://www.youtube.com/watch?v=wSJ3yuPiAbg) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
-| 4 | Interactions and Contrasts IV | 00:00 | [Youtube](https://www.youtube.com/watch?v=bBmhUyOmeZc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
-| 5 | Interactions and Contrasts V | 00:00 | [Youtube](https://www.youtube.com/watch?v=pTPxxU6Zslc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
-| 6 | Collinearity | 00:00 | [Youtube](https://www.youtube.com/watch?v=dyzbzbUHZHY) | [Chapter5](http://genomicsclass.github.io/book/pages/collinearity.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
-| 7 | QR Factorization | 00:00 | [Youtube](https://www.youtube.com/watch?v=yL3lrirzNnQ) | [Chapter5](http://genomicsclass.github.io/book/pages/qr_and_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
+| Lecture Title | Time | Video | Material | Course | 
+|---|---|---|---|---|
+|**_Week 1_**| | | | |
+| Course Introduction | 00:00 | [Youtube](https://www.youtube.com/watch?v=aP61q-LoerI) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/) |
+| Introduction | 00:00 | [Youtube](https://www.youtube.com/watch?v=tPlHbAHVqFQ) | [Chapter 4](http://genomicsclass.github.io/book/pages/intro_using_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/e8986d740f144f5385598cff3b94894f/) |
+| Matrix Notations | 00:00 | [Youtube](https://www.youtube.com/watch?v=EaYkxUwEB-Q) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_notation.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
+| Matrix Operations | 00:00 | [Youtube](https://www.youtube.com/watch?v=-5uvdduYNJM) | [Chapter 4](http://genomicsclass.github.io/book/pages/matrix_operations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/703289b001924ffaa6c13e5f59b10b98/) |
+|<a id="Module_2_Week_2">**_Week 2_**</a>| | | | |
+| Examples | 00:00 | [Youtube](https://www.youtube.com/watch?v=FAP7fYbZF0Y) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| Matrix Algebra in Practice I | 00:00 | [Youtube](https://www.youtube.com/watch?v=LniqeWOfTQo) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |
+| Matrix Algebra in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=eRXzsXh78rE) | [Chapter4](http://genomicsclass.github.io/book/pages/matrix_algebra_examples.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/46e6ed0189e24315b01c842f6b86e48b/) |  
+| Standard Errors | 00:00 | [Youtube](https://www.youtube.com/watch?v=9rm-y_iYbnw) | [Chapter5](http://genomicsclass.github.io/book/pages/standard_errors.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/50a6fbe81c0645cfa5fc614fd1e8fcc0/c649ea79c63e432199264f08479e66cf/) |
+|<a id="Module_2_Week_3">**_Week 3_**</a>| | | | |
+| Linear Models as Matrix Multiplication I | 00:00 | [Youtube](https://www.youtube.com/watch?v=gP7mgpli5t4) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| Linear Models as Matrix Multiplication II | 00:00 | [Youtube](https://www.youtube.com/watch?v=pw7I70rlkdM) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| Expressing Experimental Designs | 00:00 | [Youtube](https://www.youtube.com/watch?v=KpSS2e4Y24w) | [Chapter5](http://genomicsclass.github.io/book/pages/expressing_design_formula.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| Linear Models in Practice I | 00:00 | [Youtube](https://www.youtube.com/watch?v=xCdSyc3K3Ew) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| Linear Models in Practice II | 00:00 | [Youtube](https://www.youtube.com/watch?v=Opa8i0QxKCo) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+| Fitting Linear Models and Testing | 00:00 | [Youtube](https://www.youtube.com/watch?v=TSOzvcAgV70) | [Chapter5](http://genomicsclass.github.io/book/pages/linear_models_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/1895d33922f64564bee749dd04382571/59d1a65bdbd34286b54e6b2a14b4db48/) |
+|<a id="Module_2_Week_4">**_Week 4_**</a>| | | | |
+| Interactions and Contrasts I | 00:00 | [Youtube](https://www.youtube.com/watch?v=Wa1QkyF4peU) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
+| Interactions and Contrasts II | 00:00 | [Youtube](https://www.youtube.com/watch?v=ZU5jb86vXag) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
+| Interactions and Contrasts III | 00:00 | [Youtube](https://www.youtube.com/watch?v=wSJ3yuPiAbg) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
+| Interactions and Contrasts IV | 00:00 | [Youtube](https://www.youtube.com/watch?v=bBmhUyOmeZc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
+| Interactions and Contrasts V | 00:00 | [Youtube](https://www.youtube.com/watch?v=pTPxxU6Zslc) | [Chapter5](http://genomicsclass.github.io/book/pages/interactions_and_contrasts.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c0b20cf2c7cb4478a01e00ee32349c2d/) |
+| Collinearity | 00:00 | [Youtube](https://www.youtube.com/watch?v=dyzbzbUHZHY) | [Chapter5](http://genomicsclass.github.io/book/pages/collinearity.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
+| QR Factorization | 00:00 | [Youtube](https://www.youtube.com/watch?v=yL3lrirzNnQ) | [Chapter5](http://genomicsclass.github.io/book/pages/qr_and_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
 
 
 ## <a id="Module_3_Week_1">PH525.3x: Statistical Interference and Modeling for High-throughput Experiments</a>
