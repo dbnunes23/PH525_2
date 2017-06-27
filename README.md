@@ -32,14 +32,14 @@ PH525.4x: High-Dimensional Data Analysis
 ## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a> 
 | Lecture Title | Time  | Video | Material | Course| 
 |---|-------|-------|----------|--------|
-|**_Week 1_**| | | | | | 
+|**_Week 1_**| 2|2 | 2| 2|2 | 
 | Getting Started with  R   | 00:00 | [Youtube](https://www.youtube.com/watch?v=p8F_wreHTzw) | [Chapter 0](http://genomicsclass.github.io/book/pages/getting_started.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | GitHub                    | 00:00 | [Youtube](https://www.youtube.com/watch?v=HSXwLm6txoo) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | RStudio                   | 00:00 | [Youtube](https://www.youtube.com/watch?v=YgqxQFQf1qg)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | Using the Textbook        | 00:00 | [Youtube](https://www.youtube.com/watch?v=2WwYshzkfhA)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | Rstudio for Organization  | 00:00 | [Youtube](https://www.youtube.com/watch?v=8WmCLs3UUno)  | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) | 
 | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
-| <a id="Module_1_Week_2">**_Week 2_**</a> | | | | |
+| <a id="Module_1_Week_2">**_Week 2_**</a> |2 |2 | 2| 2|
 | Lecture Title | Time | Video | Material | Course | 
 | Motivation | 00:00 | [Youtube](https://www.youtube.com/watch?v=6nvhFgmrvLE) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
 | Introduction to Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=AxJf1nXrW8U) | [Chapter 1](http://genomicsclass.github.io/book/pages/random_variables.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/a204a8335fc34104825f6aed66020a3b/) |
@@ -51,14 +51,14 @@ PH525.4x: High-Dimensional Data Analysis
 | Central Limit Theorem in Practice | 00:00 | [Youtube](https://www.youtube.com/watch?v=QOeoxOgYpzU) | [Chapter 1](http://genomicsclass.github.io/book/pages/clt_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 | t-tests in Practice | 00:00 | [Youtube](https://www.youtube.com/watch?v=KEMJIG2gOv4) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
 | t-tests in Practice (part II) | 00:00 | [Youtube](https://www.youtube.com/watch?v=IzFDBnbhDbA) | [Chapter 1](http://genomicsclass.github.io/book/pages/t-tests_in_practice.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/0e129b79b7c84a04972fec3c23d7dce7/d27d8d24b8c443c3acb9e8ac2877f99e/) |
-| <a id="Module_1_Week_3">**_Week 3_**</a> | | | | |  
+| <a id="Module_1_Week_3">**_Week 3_**</a> |2 | 2|2 | 2|  
 | Lecture Title | Time | Video | Material | Course | 
 | Introduction to Inference | 00:00 | [Youtube](https://www.youtube.com/watch?v=Os5ph7S06_A) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) |
 | Confidence Intervals | 00:00 | [Youtube](https://www.youtube.com/watch?v=XnATNhJrX8U) | [Chapter 1](http://genomicsclass.github.io/book/pages/confidence_intervals.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) |
 | Power Calculations | 00:00 | [Youtube](https://www.youtube.com/watch?v=UV03oh4I55w) | [Chapter 1](http://genomicsclass.github.io/book/pages/power_calculations.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/997dd497b71c4232a588778f28cf894e/) |
 | Monte Carlo | 00:00 | [Youtube](https://www.youtube.com/watch?v=HMkuyuP-jsI) | [Chapter 1](http://genomicsclass.github.io/book/pages/monte_carlo.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/2f5e61303d564f2597fb2afbbdaaa60d/) |
 | Association Tests | 00:00 | [Youtube](https://www.youtube.com/watch?v=h8Rn7rr9M34) | [Chapter 1](http://genomicsclass.github.io/book/pages/association_tests.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/aa0078b8569f410cadf9b3a3667ca82b/2f5e61303d564f2597fb2afbbdaaa60d/) |
-| <a id="Module_1_Week_4">**_Week 4_**</a> | | | | |  
+| <a id="Module_1_Week_4">**_Week 4_**</a> |2 |2 | 2|2 |  
 | Lecture Title | Time | Video | Material | Course | 
 | Histogram | 00:00 | [Youtube](https://www.youtube.com/watch?v=UaXYRf6qtEg) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) |
 | QQ-plot | 00:00 | [Youtube](https://www.youtube.com/watch?v=5F62EwMF26c) | [Chapter 2](http://genomicsclass.github.io/book/pages/exploratory_data_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/e9ed5adb799d4126b02f6332d6d7db55/) |
