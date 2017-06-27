@@ -41,7 +41,7 @@ N   | Lecture Title | Time  | Video | Material | Course
 6   | Introduction to dplyr     | 00:00 | [Youtube](https://www.youtube.com/watch?v=DeDMSyiqHc4)  | [Chapter 0](http://genomicsclass.github.io/book/pages/dplyr_intro.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/2273065cc0f649b69c1240a58f7ab080/77c6a41ee38544c28d2d95ef7889cdb8/) |
 
 
-<a id="Module_1_Week_2">**_Week 2_**</a> 
+| <a id="Module_1_Week_2">**_Week 2_**</a> | | | | | | 
 
 | N  | Lecture Title | Time | Video | Material | Course | 
 |---|---|---|---|---|---|
