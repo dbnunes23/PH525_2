@@ -169,6 +169,7 @@ PH525.4x: High-Dimensional Data Analysis
 | Motivating Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |    
 
+## Proceed to Series 2: [Bioconductor and its Applications](/PH525_2_2x.md) >   
 
 ------------------
 
