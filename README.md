@@ -167,17 +167,7 @@ PH525.4x: High-Dimensional Data Analysis
 | ComBat | 00:00 | [Youtube](https://www.youtube.com/watch?v=YqoG1wt5ZdU) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=0ixPQr7-eYk) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
 | Motivating Factor Analysis | 00:00 | [Youtube](https://www.youtube.com/watch?v=_7agXi7xdwE) | [Chapter10](http://genomicsclass.github.io/book/pages/factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |
-| Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |  
-
-## <a id="Module_5_Week_1">PH525.5x: Introduction to Bioconductor: Annotation and Analysis of Genomes and Genomic Assays</a>
-**_Week 1_**
-
-
-| N  | Lecture Title | Time | Video | Material | Course | 
-|---|---|---|---|---|---|
-| 1 | Introduction and Resources | 08:49 | [Youtube](https://youtu.be/XZGNMw68-rQ) | [Setup](http://genomicsclass.github.io/book/pages/installing_Bioconductor_finding_help.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.5x+2T2017/courseware/dcf8031210054672a6bd2a63d6f9d9ac/9378a3e7360549dd90d644e87f2cbf6f/?child=first) |
-| 2 | Greeting to 5x/three examples of genomic computation | 06:49 | [Youtube](https://www.youtube.com/watch?v=yobqXdAts14) | N/A | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.5x+2T2017/courseware/2273065cc0f649b69c1240a58f7ab080/4f4ee3876f2f45c184fab2a95b2a51b8/?child=last) |
-| 3 | p-values Are Random Variables | 00:00 | [Youtube](https://www.youtube.com/watch?v=EASx5PljTW8) | [Chapter6](http://genomicsclass.github.io/book/pages/eda_for_highthroughput.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/92dbe89dc80c4fc084cad3f00b0381f7/69acac412aef4d1cbb58358157bcedf9/) |  
+| Surrogate Variable Analysis (SVA) | 00:00 | [Youtube](https://www.youtube.com/watch?v=cdJ4Ta4Y5Ow) | [Chapter10](http://genomicsclass.github.io/book/pages/adjusting_with_factor_analysis.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.4x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/b8713020a2f94d7ea267dd4f080e2ee0/) |    
 
 
 ------------------
