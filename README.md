@@ -17,18 +17,18 @@ Other sources of help
 Statistics and R for the Life Sciences (PH525.1x)   
 <a href="#Module_1_Week_1">  | Week 1 |  </a> <a href="#Module_1_Week_2">  | Week 2 |  </a> <a href="#Module_1_Week_3">  | Week 3 |  </a> <a href="#Module_1_Week_4"> |  Week 4  | </a> 
  
-PH525.2x: Introduction to Linear Models and Matrix Algebra  
+Introduction to Linear Models and Matrix Algebra (PH525.2x)
 <a href="#Module_2_Week_1">| Week 1 |</a> <a href="#Module_2_Week_2">| Week 2 |</a> <a href="#Module_2_Week_3">| Week 3 |</a> <a href="#Module_2_Week_4">| Week 4 |</a>  
  
-PH525.3x: Statistical Interference and Modeling for High-throughput Experiments   
+Statistical Interference and Modeling for High-throughput Experiments (PH525.3x)   
 <a href="#Module_3_Week_1">| Week 1 |</a> <a href="#Module_3_Week_2">| Week 2 | </a> <a href="#Module_3_Week_3">| Week 3 |</a> 
 <a href="#Module_3_Week_4">| Week 4 |</a>  
  
-PH525.4x: High-Dimensional Data Analysis   
+High-Dimensional Data Analysis (PH525.4x)   
 <a href="#Module_4_Week_1">| Week 1 | </a> <a href="#Module_4_Week_2">| Week 2 |</a> <a href="#Module_4_Week_3">| Week 3 |</a> 
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
-## <a id="Module_1_Week_1">PH525.1x: Statistics and R for the Life Sciences</a>  
+## <a id="Module_1_Week_1">Statistics and R for the Life Sciences (PH525.1x) </a>  
 
  
 
@@ -70,7 +70,7 @@ PH525.4x: High-Dimensional Data Analysis
 | Mann-Whitney-Wilcoxon Test | 00:00 | [Youtube](https://www.youtube.com/watch?v=3WKOnz6L1Fc) | [Chapter 3](http://genomicsclass.github.io/book/pages/ranktest.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.1x+2T2016/courseware/35f78842650e411ba9a610bdb4022c07/a5053412c3024ff18bc4e33332042b85/) |
 
 
-## <a id="Module_2_Week_1">Introduction to Linear Models and Matrix Algebra(PH525.2x)</a>   
+## <a id="Module_2_Week_1">Introduction to Linear Models and Matrix Algebra (PH525.2x)</a>   
 
 
 | Lecture Title | Time | Video | Material | Course | 
@@ -102,7 +102,7 @@ PH525.4x: High-Dimensional Data Analysis
 | QR Factorization | 00:00 | [Youtube](https://www.youtube.com/watch?v=yL3lrirzNnQ) | [Chapter5](http://genomicsclass.github.io/book/pages/qr_and_regression.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.2x+2T2016/courseware/f2de16b89cd842b183647681adeef8be/c074ffc4587c4aa1b31a7f75969a4494/) |
 
 
-## <a id="Module_3_Week_1">Statistical Interference and Modeling for High-throughput Experiments(PH525.3x)</a>  
+## <a id="Module_3_Week_1">Statistical Interference and Modeling for High-throughput Experiments (PH525.3x)</a>  
 
 
 
@@ -130,7 +130,7 @@ PH525.4x: High-Dimensional Data Analysis
 | Plots: Volcano plots and p-value histograms, boxplots, and MAplots | 00:00 | [Youtube](https://www.youtube.com/watch?v=XeZpS07sLrQ) | [Chapter7](http://genomicsclass.github.io/book/pages/hierarchical_models.html) | [EdX](https://courses.edx.org/courses/course-v1:HarvardX+PH525.3x+2T2016/courseware/4ca9b66b0a954ce5ac51184011bd8f77/87ca7437577a49d28cb69c7463ae8a87/) |
 
 
-## <a id="Module_4_Week_1">High-Dimensional Data Analysis(PH525.4x)</a>  
+## <a id="Module_4_Week_1">High-Dimensional Data Analysis (PH525.4x)</a>  
 
 
 | Lecture Title | Time | Video | Material | Course | 
