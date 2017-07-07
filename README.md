@@ -17,7 +17,7 @@ Other sources of help
 Statistics and R for the Life Sciences (PH525.1x)   
 <a href="#Module_1_Week_1">  | Week 1 |  </a> <a href="#Module_1_Week_2">  | Week 2 |  </a> <a href="#Module_1_Week_3">  | Week 3 |  </a> <a href="#Module_1_Week_4"> |  Week 4  | </a> 
  
-Introduction to Linear Models and Matrix Algebra (PH525.2x)
+Introduction to Linear Models and Matrix Algebra (PH525.2x)  
 <a href="#Module_2_Week_1">| Week 1 |</a> <a href="#Module_2_Week_2">| Week 2 |</a> <a href="#Module_2_Week_3">| Week 3 |</a> <a href="#Module_2_Week_4">| Week 4 |</a>  
  
 Statistical Interference and Modeling for High-throughput Experiments (PH525.3x)  
