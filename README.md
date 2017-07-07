@@ -20,7 +20,7 @@ Statistics and R for the Life Sciences (PH525.1x)
 Introduction to Linear Models and Matrix Algebra (PH525.2x)
 <a href="#Module_2_Week_1">| Week 1 |</a> <a href="#Module_2_Week_2">| Week 2 |</a> <a href="#Module_2_Week_3">| Week 3 |</a> <a href="#Module_2_Week_4">| Week 4 |</a>  
  
-Statistical Interference and Modeling for High-throughput Experiments (PH525.3x)   
+Statistical Interference and Modeling for High-throughput Experiments (PH525.3x)  
 <a href="#Module_3_Week_1">| Week 1 |</a> <a href="#Module_3_Week_2">| Week 2 | </a> <a href="#Module_3_Week_3">| Week 3 |</a> 
 <a href="#Module_3_Week_4">| Week 4 |</a>  
  
@@ -28,9 +28,7 @@ High-Dimensional Data Analysis (PH525.4x)
 <a href="#Module_4_Week_1">| Week 1 | </a> <a href="#Module_4_Week_2">| Week 2 |</a> <a href="#Module_4_Week_3">| Week 3 |</a> 
 <a href="#Module_4_Week_4">| Week 4 |</a>
 
-## <a id="Module_1_Week_1">Statistics and R for the Life Sciences (PH525.1x) </a>  
-
- 
+## <a id="Module_1_Week_1">Statistics and R for the Life Sciences (PH525.1x) </a>    
 
 | Lecture Title | Time  | Video | Material | Course| 
 |---|-------|-------|----------|--------|
