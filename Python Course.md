@@ -6,7 +6,7 @@
 
 | Series Number | Lecture Title | Time | Video | 
 |---|---|---|---|
-|Series 1.0||||
+|**Series 1.0**||||
 | 0.1 | Why Program? Why Python? | 04:34 | [Youtube](https://www.youtube.com/watch?v=rSD5DUOW5Z8) | 
 | 1.1.1 | Python Basics | 04:30 | [Youtube](www.youtube.com/watch?v=ZD26d9GN5gk) | 
 | 1.1.2 | Objects | 04:39 | [Youtube](www.youtube.com/watch?v=_RcVC9nSsGc) | 
@@ -30,7 +30,7 @@
 | 1.3.7 | Introduction to Functions  | 05:23 |  [Youtube](www.youtube.com/watch?v=4UyXUd4M1fA) | 
 | 1.3.8 | Writing Simple Functions  | 09:36 | [Youtube](www.youtube.com/watch?v=Udl-rjuQ-HE) | 
 | 1.3.9 | Common Mistakes and Errors  | 06:44 |  [Youtube](www.youtube.com/watch?v=dHLdKJsHTW0) |
-|Series 2.0||||
+|**Series 2.0**||||
 | 2.1.1 | Scope Rules  | 08:29 |  [Youtube](www.youtube.com/watch?v=9aMsiTBM-dk) | 
 | 2.1.2 | Classes and Object-Oriented Programming  | 07:34 |  [Youtube](www.youtube.com/watch?v=ooer1zUIJvw) | 
 | 2.2.1 | Introduction to NumPy Arrays  | 06:26 |  [Youtube](www.youtube.com/watch?v=MzMVGPhLjDM) | 
@@ -46,7 +46,7 @@
 | 2.4.3 | Using the NumPy Random Module  |  11:36 |  [Youtube](www.youtube.com/watch?v=GEKn54EOFzo) | 
 | 2.4.4 | Measuring Time | 03:42 |  [Youtube](www.youtube.com/watch?v=UjGlOw0YUh0) | 
 | 2.4.5 | Random Walks  | 16:40 |  [Youtube](www.youtube.com/watch?v=0CLwSwWVSNw) | 
-|Series 3.0||||
+|**Series 3.0**||||
 | 3.1.1 | Introduction to DNA Translation  | 04:44 |  [Youtube](www.youtube.com/watch?v=zfssP3rOXu8) | 
 | 3.1.2 | Downloading DNA Data  | 04:22 | [Youtube](www.youtube.com/watch?v=PyfpJyiRkZo) | 
 | 3.1.3 | Importing DNA Data Into Python  | 04:57 |  [Youtube](www.youtube.com/watch?v=5u_BQIncS94) | 
@@ -66,7 +66,7 @@
 | 3.3.6 | Making a Prediction Grid  | 10:44 |  [Youtube](www.youtube.com/watch?v=3e0XtJTqeW0) | 
 | 3.3.7 | Plotting the Prediction Grid  | 04:14 |  [Youtube](www.youtube.com/watch?v=WPzaV7upZCI) | 
 | 3.3.8 | Applying the kNN Method  | 09:56 |  [Youtube](www.youtube.com/watch?v=YcXrnaDYfYU) | 
-|Series 4.0||||
+|**Series 4.0**||||
 | 4.1.1 | Getting Started With Pandas  | 11:02 |  [Youtube](www.youtube.com/watch?v=SfeA119mtrU) | 
 | 4.1.2 | Loading and Inspecting Data  | 04:28 |  [Youtube](www.youtube.com/watch?v=PFv3F9sUPSk) | 
 | 4.1.3 | Exploring Correlations  | 05:37 |  [Youtube](www.youtube.com/watch?v=OtWbxfuCXGA) | 
