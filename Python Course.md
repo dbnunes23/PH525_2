@@ -1,8 +1,8 @@
 ---------------
 
-#PH_526X Series
+# PH_526X Series
 
-##**Python**
+## **Python**
 
 | Series Number | Lecture Title | Time | Video | 
 |---|---|---|---|
